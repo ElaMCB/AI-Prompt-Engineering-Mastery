@@ -1,14 +1,11 @@
 # AI Prompt Engineering Mastery
-*From Frustrating AI Responses to Professional Results*
 
 <div align="center">
 
 ```
  TRANSFORM YOUR AI INTERACTIONS
-From Frustrating Responses → Professional Results
-```
 
-**Transform vague AI requests into precise instructions that generate exactly what you need**
+```
 
 [Start Learning](#quick-start) • [Course Overview](#course-overview) • [What You'll Build](#what-youll-build) • [Success Stories](#success-stories)
 
@@ -16,15 +13,7 @@ From Frustrating Responses → Professional Results
 
 ---
 
-## The Problem Everyone Faces
-
-You ask ChatGPT to write marketing copy → **Get generic fluff**  
-You want code help → **Get broken examples**  
-You need research → **Get surface-level summaries**
-
-**Sound familiar?** You're not alone. Most people fight with AI and get mediocre results.
-
-## The Solution: Professional Prompt Engineering
+##  Prompt Engineering
 
 Learn to speak AI's language. Turn vague requests into precise instructions that generate professional-quality output every time.
 
@@ -62,8 +51,6 @@ Keep under 10 words each."
 </td>
 </tr>
 </table>
-
-## Course Overview
 
 <div align="center">
 
@@ -140,7 +127,6 @@ jupyter notebook notebooks/foundations_lab.ipynb
 </tr>
 </table>
 
-## Why This Works
 
 **Most AI courses teach theory.** This course is built around **doing**.
 
