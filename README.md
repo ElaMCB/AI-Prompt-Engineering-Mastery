@@ -7,7 +7,7 @@
 
 **Transform vague AI requests into precise instructions that generate exactly what you need**
 
-[🚀 Start Learning](#quick-start) • [📚 Course Overview](#course-overview) • [💼 What You'll Build](#what-youll-build) • [⭐ Success Stories](#success-stories)
+[ Start Learning](#quick-start) • [ Course Overview](#course-overview) • [ What You'll Build](#what-youll-build) • [ Success Stories](#success-stories)
 
 </div>
 
@@ -184,11 +184,11 @@ jupyter notebook notebooks/foundations_lab.ipynb
 
 | Tool | Purpose | Benefit |
 |------|---------|---------|
-| **🎯 Prompt Validator** | Scores prompts 0-100% using best practices | Get immediate feedback on prompt quality |
-| **📊 Progress Tracker** | Tracks mastery across 17 core competencies | See exactly what you've learned and what's next |
-| **🔄 Version Control** | Git-like system for prompt management | Save, compare, and reuse your best prompts |
-| **⚖️ A/B Testing** | Compare prompt performance scientifically | Optimize prompts with data, not guesswork |
-| **🏆 Certificates** | Completion certificates for each level | Document your skills for career advancement |
+| ** Prompt Validator** | Scores prompts 0-100% using best practices | Get immediate feedback on prompt quality |
+| **Progress Tracker** | Tracks mastery across 17 core competencies | See exactly what you've learned and what's next |
+| ** Version Control** | Git-like system for prompt management | Save, compare, and reuse your best prompts |
+| ** A/B Testing** | Compare prompt performance scientifically | Optimize prompts with data, not guesswork |
+| ** Certificates** | Completion certificates for each level | Document your skills for career advancement |
 
 ## Ready to Start?
 
@@ -224,7 +224,7 @@ See the full curriculum and pick your starting point.
 </td>
 <td width="33%">
 
-### 👀 **Just Browsing**
+###  **Just Browsing**
 Want to see what you'll learn?
 
 **Check out:**  
