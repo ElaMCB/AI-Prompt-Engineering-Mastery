@@ -10,7 +10,7 @@ From Frustrating Responses → Professional Results
 
 **Transform vague AI requests into precise instructions that generate exactly what you need**
 
-[ Start Learning](#quick-start) • [ Course Overview](#course-overview) • [ What You'll Build](#what-youll-build) • [ Success Stories](#success-stories)
+[Start Learning](#quick-start) • [Course Overview](#course-overview) • [What You'll Build](#what-youll-build) • [Success Stories](#success-stories)
 
 </div>
 
@@ -79,32 +79,27 @@ Keep under 10 words each."
 
 ## Quick Start
 
-<div align="center">
-
-### Ready to transform your AI interactions? Get started in 2 minutes.
-
-</div>
+**Get started in 2 minutes:**
 
 ```bash
-# 1. Clone and setup (30 seconds)
+# 1. Clone the repository
 git clone https://github.com/ElaMCB/ai-prompt-engineering-mastery
 cd ai-prompt-engineering-mastery
-python setup.py
 
-# 2. Launch the interactive playground (30 seconds)
+# 2. Install requirements
+pip install -r requirements.txt
+
+# 3. Start the first lab
 jupyter notebook notebooks/foundations_lab.ipynb
-
-# 3. Start learning immediately
-# Fix your first broken prompt in under 5 minutes
 ```
 
-### What Happens Next?
+**What you'll do immediately:**
+1. Fix 3 broken prompts that everyone struggles with
+2. Learn the CLEAR framework for writing effective prompts
+3. Complete real-world scenarios (job applications, code help, business strategy)
+4. See your prompts scored automatically (0-100%)
 
-1. Fix 3 Broken Prompts - See immediate improvements in AI responses
-2. Learn the CLEAR Framework - Systematic approach to prompt engineering  
-3. Complete Real Scenarios - Job applications, code help, business strategy
-4. Take the $500 Challenge - Create prompts that generate professional-value content
-5. Track Your Progress - Built-in validation and skill assessment tools
+**Time needed:** 2-3 hours for the complete foundations lab
 
 ## What You'll Build
 
@@ -193,75 +188,29 @@ jupyter notebook notebooks/foundations_lab.ipynb
 | A/B Testing | Compare prompt performance scientifically | Optimize prompts with data, not guesswork |
 | Certificates | Completion certificates for each level | Document your skills for career advancement |
 
-## Ready to Start?
+## Choose Your Path
 
-<div align="center">
+**Complete Beginner?**  
+Start with [Foundations Lab](foundations_lab.md) - Fix 3 broken prompts and learn the CLEAR framework.
 
-### Choose your path based on your experience level
+**Have Some Experience?**  
+See the [Course Overview](course_overview.md) - Full curriculum and advanced topics.
 
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-###  **Complete Beginner**
-Never written a good prompt?
-
-**Start here:**  
-[Foundations Lab](foundations_lab.md)
-
-Fix 3 broken prompts and learn the CLEAR framework in your first session.
-
-</td>
-<td width="33%">
-
-###  **Some Experience**  
-Used AI tools but want better results?
-
-**Jump to:**  
-[Course Roadmap](course_overview.md)
-
-See the full curriculum and pick your starting point.
-
-</td>
-<td width="33%">
-
-###  **Just Browsing**
-Want to see what you'll learn?
-
-**Check out:**  
-[Examples & Solutions](notebooks/foundations_lab_solutions.md)
-
-See before/after transformations and real results.
-
-</td>
-</tr>
-</table>
+**Just Browsing?**  
+Check [Examples & Solutions](notebooks/foundations_lab_solutions.md) - See before/after transformations.
 
 ---
 
-<div align="center">
-
-###  **Ready to Transform Your AI Interactions?**
+## Get Started
 
 **Time Investment:** 6-9 weeks (10-15 hours/week)  
 **ROI:** Save 10+ hours weekly + dramatically better AI outputs  
 **Cost:** Free (you only pay for API usage during exercises)
 
-[**🎯 Start Foundations Lab →**](foundations_lab.md)
-
-*Transform your first broken prompt in under 5 minutes*
-
-</div>
+[Start Foundations Lab](foundations_lab.md)
 
 ---
 
-<div align="center">
-
 **Questions?** Check the [Course Overview](course_overview.md) • **Need Help?** See [Getting Started Guide](START_HERE.md)
 
-
 **MIT Licensed** • **Actively Maintained** • **Community Contributions Welcome**
-
-</div>
