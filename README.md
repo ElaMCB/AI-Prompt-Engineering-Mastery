@@ -3,11 +3,14 @@
 
 <div align="center">
 
-![Course Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Interactive+Prompt+Engineering+Course)
+```
+🎯 TRANSFORM YOUR AI INTERACTIONS
+From Frustrating Responses → Professional Results
+```
 
 **Transform vague AI requests into precise instructions that generate exactly what you need**
 
-[ Start Learning](#quick-start) • [ Course Overview](#course-overview) • [ What You'll Build](#what-youll-build) • [ Success Stories](#success-stories)
+[🚀 Start Learning](#quick-start) • [📚 Course Overview](#course-overview) • [💼 What You'll Build](#what-youll-build) • [⭐ Success Stories](#success-stories)
 
 </div>
 
