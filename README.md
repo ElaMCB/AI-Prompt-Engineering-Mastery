@@ -4,13 +4,13 @@
 <div align="center">
 
 ```
-🎯 TRANSFORM YOUR AI INTERACTIONS
+ TRANSFORM YOUR AI INTERACTIONS
 From Frustrating Responses → Professional Results
 ```
 
 **Transform vague AI requests into precise instructions that generate exactly what you need**
 
-[🚀 Start Learning](#quick-start) • [📚 Course Overview](#course-overview) • [💼 What You'll Build](#what-youll-build) • [⭐ Success Stories](#success-stories)
+[ Start Learning](#quick-start) • [ Course Overview](#course-overview) • [ What You'll Build](#what-youll-build) • [ Success Stories](#success-stories)
 
 </div>
 
@@ -73,9 +73,9 @@ Keep under 10 words each."
 
 | Level | Focus | Time | Outcome |
 |-------|-------|------|---------|
-| ** Foundation Labs** | Master core prompt engineering | 2-3 weeks | Write prompts that get professional results |
-| ** Engineering Playground** | Build advanced AI systems | 2-3 weeks | Create agents and automated workflows |
-| ** Professional Projects** | Ship real applications | 2-3 weeks | Portfolio projects for career advancement |
+|  Foundation Labs | Master core prompt engineering | 2-3 weeks | Write prompts that get professional results |
+|  Engineering Playground | Build advanced AI systems | 2-3 weeks | Create agents and automated workflows |
+|  Professional Projects | Ship real applications | 2-3 weeks | Portfolio projects for career advancement |
 
 ## Quick Start
 
@@ -100,11 +100,11 @@ jupyter notebook notebooks/foundations_lab.ipynb
 
 ### What Happens Next?
 
-1. **Fix 3 Broken Prompts** - See immediate improvements in AI responses
-2. **Learn the CLEAR Framework** - Systematic approach to prompt engineering  
-3. **Complete Real Scenarios** - Job applications, code help, business strategy
-4. **Take the $500 Challenge** - Create prompts that generate professional-value content
-5. **Track Your Progress** - Built-in validation and skill assessment tools
+1. Fix 3 Broken Prompts - See immediate improvements in AI responses
+2. Learn the CLEAR Framework - Systematic approach to prompt engineering  
+3. Complete Real Scenarios - Job applications, code help, business strategy
+4. Take the $500 Challenge - Create prompts that generate professional-value content
+5. Track Your Progress - Built-in validation and skill assessment tools
 
 ## What You'll Build
 
@@ -187,11 +187,11 @@ jupyter notebook notebooks/foundations_lab.ipynb
 
 | Tool | Purpose | Benefit |
 |------|---------|---------|
-| ** Prompt Validator** | Scores prompts 0-100% using best practices | Get immediate feedback on prompt quality |
-| **Progress Tracker** | Tracks mastery across 17 core competencies | See exactly what you've learned and what's next |
-| ** Version Control** | Git-like system for prompt management | Save, compare, and reuse your best prompts |
-| ** A/B Testing** | Compare prompt performance scientifically | Optimize prompts with data, not guesswork |
-| ** Certificates** | Completion certificates for each level | Document your skills for career advancement |
+|  Prompt Validator | Scores prompts 0-100% using best practices | Get immediate feedback on prompt quality |
+| Progress Tracker | Tracks mastery across 17 core competencies | See exactly what you've learned and what's next |
+|  Version Control | Git-like system for prompt management | Save, compare, and reuse your best prompts |
+| A/B Testing | Compare prompt performance scientifically | Optimize prompts with data, not guesswork |
+| Certificates | Completion certificates for each level | Document your skills for career advancement |
 
 ## Ready to Start?
 
