@@ -12,7 +12,9 @@ git clone https://github.com/ElaMCB/ai-prompt-engineering-mastery
 cd ai-prompt-engineering-mastery
 pip install -r requirements.txt
 jupyter notebook notebooks/01_prompt_foundations.ipynb
-The Learning Journey
+
+# The Learning Journey
+
 Master the Fundamentals
 Prompt Foundations - Craft precise instructions that AI understands
 
