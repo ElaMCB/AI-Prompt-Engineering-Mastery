@@ -209,7 +209,7 @@ jupyter notebook notebooks/foundations_lab.ipynb
 Never written a good prompt?
 
 **Start here:**  
-[Foundations Lab](notebooks/foundations_lab.ipynb)
+[Foundations Lab](foundations_lab.md)
 
 Fix 3 broken prompts and learn the CLEAR framework in your first session.
 
@@ -220,7 +220,7 @@ Fix 3 broken prompts and learn the CLEAR framework in your first session.
 Used AI tools but want better results?
 
 **Jump to:**  
-[Course Roadmap](COURSE_ROADMAP.md)
+[Course Roadmap](course_overview.md)
 
 See the full curriculum and pick your starting point.
 
@@ -249,7 +249,7 @@ See before/after transformations and real results.
 **ROI:** Save 10+ hours weekly + dramatically better AI outputs  
 **Cost:** Free (you only pay for API usage during exercises)
 
-[** Start Foundations Lab →**](notebooks/foundations_lab.ipynb)
+[**🎯 Start Foundations Lab →**](foundations_lab.md)
 
 *Transform your first broken prompt in under 5 minutes*
 
@@ -259,7 +259,7 @@ See before/after transformations and real results.
 
 <div align="center">
 
-**Questions?** Check the [Course Roadmap](COURSE_ROADMAP.md) • **Need Help?** See [Getting Started Guide](START_HERE.md)
+**Questions?** Check the [Course Overview](course_overview.md) • **Need Help?** See [Getting Started Guide](START_HERE.md)
 
 
 **MIT Licensed** • **Actively Maintained** • **Community Contributions Welcome**
