@@ -1,4 +1,4 @@
-# Week 1 Solutions & Examples
+# Foundations Lab Solutions & Examples
 
 ## Challenge #1 Solutions
 
@@ -111,9 +111,9 @@ Focus on cost-effective strategies that don't require a marketing team.
 - Use clear headings and bullet points for scanability
 ```
 
-## Week 1 Success Metrics
+## Foundations Lab Success Metrics
 
-**You've mastered Week 1 if you can:**
+**You've mastered Foundations Lab if you can:**
 - ✅ Identify what makes a prompt vague vs. specific
 - ✅ Apply the CLEAR framework to any scenario
 - ✅ Write prompts that generate actionable, valuable content

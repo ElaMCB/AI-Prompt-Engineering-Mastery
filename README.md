@@ -1,5 +1,7 @@
 # AI Prompt Engineering Mastery
 
+> **New here?** → [START_HERE.md](START_HERE.md) | **Ready to learn?** → [Foundations Lab](notebooks/foundations_lab.ipynb)
+
 **The Problem:** You ask ChatGPT to write marketing copy and get generic fluff. You want code help and get broken examples. You need research and get surface-level summaries.
 
 **The Solution:** Learn to speak AI's language. Turn vague requests into precise instructions that generate exactly what you need.
@@ -22,16 +24,40 @@
 ```
 *Result: Targeted, compelling headlines that actually convert*
 
-## Quick Start
+## Course Structure & Navigation
 
+```
+START HERE → Setup → Foundations Lab → Advanced Labs → Portfolio Projects
+     ↓         ↓           ↓              ↓               ↓
+   Clone    Install    Learn CLEAR    Build Agents    Ship Real Tools
+   Repo     Tools      Framework      & Workflows     & Get Hired
+```
+
+### Step-by-Step Guide
+
+**Step 1: Setup (5 minutes)**
 ```bash
 git clone https://github.com/ElaMCB/ai-prompt-engineering-mastery
 cd ai-prompt-engineering-mastery
-pip install -r requirements.txt
-jupyter notebook notebooks/01_prompt_foundations.ipynb
+python setup.py  # Verifies everything works
 ```
 
-**Your first challenge:** Transform a useless prompt into one that generates professional-quality content in minutes.
+**Step 2: Start Foundations Lab (2-3 hours)**
+```bash
+jupyter notebook notebooks/foundations_lab.ipynb
+```
+*Transform broken prompts into professional-quality instructions*
+
+**Step 3: Track Your Progress**
+- Built-in validation scores your prompts automatically
+- Progress tracker shows skill mastery across 17 competencies  
+- Version control saves your best prompts for reuse
+
+**Step 4: Build Portfolio Projects**
+- Customer Support Bot (Week 2)
+- Content Generation Engine (Week 3)  
+- Code Review Assistant (Week 4)
+- Research Synthesizer (Week 4)
 
 ## Learning Path
 
@@ -140,26 +166,40 @@ Real tools you can use immediately:
 
 Each project includes the exact prompts, code, and deployment instructions.
 
-## Get Started
+## Ready to Start? Follow This Path
 
-**Challenge:** Fix this broken prompt and watch it generate 10x better results:
+### New to Prompt Engineering?
+**Start Here:** [Foundations Lab](notebooks/foundations_lab.ipynb)
+- Fix 3 broken prompts in 30 minutes
+- Learn the CLEAR framework  
+- Complete the $500 content challenge
+- Get immediate feedback on your prompts
 
-```
-Poor: "Write a product description"
-Your improved version will be here after 5 minutes
-```
+### Have Some Experience?
+**Jump to:** Advanced labs (coming soon)
+- Agent building workshops
+- Production deployment guides
+- A/B testing frameworks
 
-Open the first notebook and see the difference immediately:
+### Just Want to See Examples?
+**Check:** [Solutions & Examples](notebooks/foundations_lab_solutions.md)
+- Before/after prompt comparisons
+- Real-world use cases
+- Performance benchmarks
 
+### Quick Test Drive (2 minutes)
 ```bash
-jupyter notebook notebooks/01_prompt_foundations.ipynb
+git clone https://github.com/ElaMCB/ai-prompt-engineering-mastery
+cd ai-prompt-engineering-mastery
+python test_week1.py  # Verify everything works
+jupyter notebook notebooks/foundations_lab.ipynb  # Start learning
 ```
 
-**Learning Timeline:**
-- **Week 1:** Stop getting frustrated with AI responses
-- **Week 2:** Generate professional-quality content in minutes  
-- **Week 3:** Build your first AI assistant that actually helps
-- **Week 4:** Deploy a system that saves you 10+ hours per week
+**Learning Path:**
+- **Foundations Lab:** Master the CLEAR framework, fix broken prompts (2-3 hours)
+- **Context Lab:** Make AI understand your specific business and data (2-3 hours)  
+- **Agent Lab:** Build AI assistants that use tools and make decisions (3-4 hours)
+- **Production Lab:** Deploy, test, and optimize real systems (3-4 hours)
 
 ## Summary
 

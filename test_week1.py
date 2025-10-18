@@ -1,6 +1,6 @@
 """
-Test Week 1 functionality
-Run this to make sure all Week 1 tools are working
+Test Foundations Lab functionality
+Run this to make sure all Foundations Lab tools are working
 """
 
 import sys
@@ -131,9 +131,9 @@ def main():
     
     print("\n" + "=" * 40)
     if all_passed:
-        print("🎉 All Week 1 tools are working!")
+        print("🎉 All Foundations Lab tools are working!")
         print("\nYou can now start the course:")
-        print("jupyter notebook notebooks/01_prompt_foundations.ipynb")
+        print("jupyter notebook notebooks/foundations_lab.ipynb")
     else:
         print("❌ Some tools are not working. Check the errors above.")
 

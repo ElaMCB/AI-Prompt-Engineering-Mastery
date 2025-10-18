@@ -82,9 +82,10 @@ def main():
     if all_passed:
         print("🎉 Setup complete! You're ready to start learning.")
         print("\nNext steps:")
-        print("1. jupyter notebook notebooks/01_prompt_foundations.ipynb")
+        print("1. jupyter notebook notebooks/foundations_lab.ipynb")
         print("2. Work through the exercises")
         print("3. Use the validation tools to check your progress")
+        print("\nOr read START_HERE.md for detailed guidance.")
     else:
         print("❌ Setup incomplete. Please fix the issues above.")
 
