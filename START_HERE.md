@@ -35,10 +35,16 @@ The course includes built-in tools that:
 - Generate completion certificates
 
 ### 4. What's Next?
-After Foundations Lab, you'll have access to:
-- **Context Lab:** Make AI understand your specific business
-- **Agent Lab:** Build AI assistants that use tools
-- **Production Lab:** Deploy and optimize real systems
+After Foundations Lab, you'll progress through:
+
+**Level 1: Foundation Labs (4 notebooks)**
+- Prompt Foundations → Context Mastery → Structured Outputs → Chain-of-Thought
+
+**Level 2: Engineering Playground (4 notebooks)**  
+- Advanced Frameworks → Prompt Chaining → Self-Critique → Testing & Evaluation
+
+**Level 3: Professional Projects (4 projects)**
+- Customer Support AI → Content Engine → Code Assistant → Research Bot
 
 ## Quick Test
 Want to see if everything works? Run this:

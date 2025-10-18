@@ -1,6 +1,6 @@
 # AI Prompt Engineering Mastery
 
-> **New here?** → [START_HERE.md](START_HERE.md) | **Ready to learn?** → [Foundations Lab](notebooks/foundations_lab.ipynb)
+> **New here?** → [START_HERE.md](START_HERE.md) | **See full course?** → [COURSE_ROADMAP.md](COURSE_ROADMAP.md) | **Ready to learn?** → [Foundations Lab](notebooks/foundations_lab.ipynb)
 
 **The Problem:** You ask ChatGPT to write marketing copy and get generic fluff. You want code help and get broken examples. You need research and get surface-level summaries.
 
@@ -27,10 +27,10 @@
 ## Course Structure & Navigation
 
 ```
-START HERE → Setup → Foundations Lab → Advanced Labs → Portfolio Projects
-     ↓         ↓           ↓              ↓               ↓
-   Clone    Install    Learn CLEAR    Build Agents    Ship Real Tools
-   Repo     Tools      Framework      & Workflows     & Get Hired
+START HERE → Setup → Foundation Labs → Engineering Playground → Professional Projects
+     ↓         ↓           ↓                    ↓                      ↓
+   Clone    Install   Master Core Skills   Build Advanced Systems   Ship Portfolio
+   Repo     Tools     (4 Notebooks)        (4 Notebooks)           (4 Projects)
 ```
 
 ### Step-by-Step Guide
@@ -42,42 +42,58 @@ cd ai-prompt-engineering-mastery
 python setup.py  # Verifies everything works
 ```
 
-**Step 2: Start Foundations Lab (2-3 hours)**
+**Step 2: Start Foundation Labs**
 ```bash
-jupyter notebook notebooks/foundations_lab.ipynb
+jupyter notebook notebooks/foundations_lab.ipynb  # Start here
 ```
-*Transform broken prompts into professional-quality instructions*
+*Master prompt fundamentals through 4 interactive notebooks*
 
-**Step 3: Track Your Progress**
-- Built-in validation scores your prompts automatically
-- Progress tracker shows skill mastery across 17 competencies  
+**Step 3: Progress to Engineering Playground**
+- Build ReAct agents and multi-step workflows
+- Implement self-critique and evaluation systems
+- Learn production deployment patterns
+
+**Step 4: Ship Professional Projects**
+- Customer Support AI with 40% faster response times
+- Content Strategy Engine with automated pipelines
+- Code Review Assistant with quality metrics
+- Research Synthesis Bot for literature reviews
+
+**Built-in Tools:**
+- Validation scores your prompts automatically (0-100%)
+- Progress tracker shows mastery across 17 competencies  
 - Version control saves your best prompts for reuse
+- A/B testing framework optimizes performance
 
-**Step 4: Build Portfolio Projects**
-- Customer Support Bot (Week 2)
-- Content Generation Engine (Week 3)  
-- Code Review Assistant (Week 4)
-- Research Synthesizer (Week 4)
+## Why This Course?
 
-## Learning Path
+Most AI courses focus on theory. This course is built around **doing**. Every concept is taught through interactive Jupyter notebooks and real-world projects that you can immediately apply in your work.
 
-### Foundation Skills
-- **Prompt Debugging** - Turn "write me a blog post" into content that actually ranks
-- **Context Control** - Make AI understand your business, not generic advice  
-- **Format Mastery** - Get clean JSON, perfect APIs, structured data every time
-- **Logic Chains** - Build AI that thinks through problems step-by-step
+## Complete Learning Path
 
-### Advanced Systems
-- **Smart Agents** - Create AI assistants that use tools and make real decisions
-- **Workflow Automation** - Chain prompts together for complex multi-step tasks
-- **Self-Improving Systems** - AI that critiques and refines its own work
-- **Performance Tracking** - Measure what works and optimize ruthlessly
+### Level 1: Foundation Labs (2-3 weeks)
+**Core Skills:** Prompt anatomy, context management, structured outputs, reasoning
 
-### Production Projects
-- **Customer Support Bot** - Handle 80% of tickets without losing customers
-- **Content Generation Engine** - Generate months of social media in an afternoon
-- **Code Review Assistant** - Catch bugs and suggest improvements automatically  
-- **Research Synthesizer** - Synthesize insights from multiple sources in minutes
+- **Notebook 1: Prompt Foundations** - Master clarity and specificity
+- **Notebook 2: Context Mastery** - Learn information grounding techniques  
+- **Notebook 3: Structured Outputs** - Generate JSON, XML, and API-ready data
+- **Notebook 4: Chain-of-Thought** - Implement step-by-step reasoning
+
+### Level 2: Engineering Playground (2-3 weeks)
+**Advanced Techniques:** Agent systems, prompt chaining, self-critique, evaluation
+
+- **Notebook 5: Advanced Frameworks** - Build ReAct agents
+- **Notebook 6: Prompt Chaining** - Create multi-step workflows
+- **Notebook 7: Self-Critique Systems** - Implement quality improvement loops
+- **Notebook 8: Testing & Evaluation** - Benchmark and optimize prompts
+
+### Level 3: Professional Projects (2-3 weeks)
+**Real Applications:** Production systems with measurable business value
+
+- **Project 1: Customer Support AI** - Reduce response times by 40%
+- **Project 2: Content Strategy Engine** - Automated content pipelines
+- **Project 3: Code Review Assistant** - Improve code quality
+- **Project 4: Research Synthesis Bot** - Accelerate literature reviews
 
 ## Real Examples, Real Results
 
@@ -166,6 +182,29 @@ Real tools you can use immediately:
 
 Each project includes the exact prompts, code, and deployment instructions.
 
+## What Makes This Different
+
+### Interactive Learning
+Every notebook includes:
+- Broken examples to fix and learn from
+- Progressive challenges that build complexity
+- Real datasets and practical exercises
+- Immediate feedback and validation
+
+### Production-Ready Code
+You'll build systems that include:
+- Version control for prompts
+- A/B testing capabilities
+- Performance monitoring
+- Error handling and fallbacks
+
+### Measurable Progress
+Track your improvement with:
+- Pre/post assessments in each notebook
+- Skill matrices that fill as you progress
+- Project completion certificates
+- Portfolio-ready outcomes
+
 ## Ready to Start? Follow This Path
 
 ### New to Prompt Engineering?
@@ -195,11 +234,11 @@ python test_week1.py  # Verify everything works
 jupyter notebook notebooks/foundations_lab.ipynb  # Start learning
 ```
 
-**Learning Path:**
-- **Foundations Lab:** Master the CLEAR framework, fix broken prompts (2-3 hours)
-- **Context Lab:** Make AI understand your specific business and data (2-3 hours)  
-- **Agent Lab:** Build AI assistants that use tools and make decisions (3-4 hours)
-- **Production Lab:** Deploy, test, and optimize real systems (3-4 hours)
+**Learning Timeline:**
+- **Level 1 (2-3 weeks):** Foundation Labs - Master core prompt engineering skills
+- **Level 2 (2-3 weeks):** Engineering Playground - Build advanced AI systems  
+- **Level 3 (2-3 weeks):** Professional Projects - Ship portfolio-ready applications
+- **Total Time:** 6-9 weeks of hands-on learning and building
 
 ## Summary
 
