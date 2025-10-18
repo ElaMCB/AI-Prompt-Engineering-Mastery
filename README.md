@@ -35,7 +35,7 @@ Learn to speak AI's language. Turn vague requests into precise instructions that
 <tr>
 <td width="50%">
 
-### ❌ What Most People Do
+###  What Most People Do
 ```
 "Write me some marketing copy for my app"
 ```
@@ -44,7 +44,7 @@ Learn to speak AI's language. Turn vague requests into precise instructions that
 </td>
 <td width="50%">
 
-### ✅ What You'll Learn
+###  What You'll Learn
 ```
 "You're a conversion copywriter for SaaS products. 
 Write 3 headline variations for a project management 
@@ -64,15 +64,15 @@ Keep under 10 words each."
 
 <div align="center">
 
-### 🎯 **12 Weeks • 3 Levels • Portfolio-Ready Projects**
+###  **12 Weeks • 3 Levels • Portfolio-Ready Projects**
 
 </div>
 
 | Level | Focus | Time | Outcome |
 |-------|-------|------|---------|
-| **🔰 Foundation Labs** | Master core prompt engineering | 2-3 weeks | Write prompts that get professional results |
-| **⚡ Engineering Playground** | Build advanced AI systems | 2-3 weeks | Create agents and automated workflows |
-| **🚀 Professional Projects** | Ship real applications | 2-3 weeks | Portfolio projects for career advancement |
+| ** Foundation Labs** | Master core prompt engineering | 2-3 weeks | Write prompts that get professional results |
+| ** Engineering Playground** | Build advanced AI systems | 2-3 weeks | Create agents and automated workflows |
+| ** Professional Projects** | Ship real applications | 2-3 weeks | Portfolio projects for career advancement |
 
 ## Quick Start
 
@@ -115,12 +115,12 @@ jupyter notebook notebooks/foundations_lab.ipynb
 <tr>
 <td width="50%">
 
-### 🤖 **Customer Support AI**
+###  **Customer Support AI**
 - Handle 80% of tickets automatically
 - Reduce response times by 40%
 - Maintain quality while scaling
 
-### 📝 **Content Strategy Engine**  
+###  **Content Strategy Engine**  
 - Generate months of content in hours
 - Maintain consistent brand voice
 - Automate social media pipelines
@@ -128,12 +128,12 @@ jupyter notebook notebooks/foundations_lab.ipynb
 </td>
 <td width="50%">
 
-### 🔍 **Code Review Assistant**
+###  **Code Review Assistant**
 - Catch bugs before deployment
 - Suggest performance improvements
 - Generate documentation automatically
 
-### 📚 **Research Synthesis Bot**
+###**Research Synthesis Bot**
 - Process 50+ sources in minutes
 - Extract key insights and patterns
 - Generate literature reviews
@@ -202,7 +202,7 @@ jupyter notebook notebooks/foundations_lab.ipynb
 <tr>
 <td width="33%">
 
-### 🆕 **Complete Beginner**
+###  **Complete Beginner**
 Never written a good prompt?
 
 **Start here:**  
@@ -213,7 +213,7 @@ Fix 3 broken prompts and learn the CLEAR framework in your first session.
 </td>
 <td width="33%">
 
-### 🔧 **Some Experience**  
+###  **Some Experience**  
 Used AI tools but want better results?
 
 **Jump to:**  
@@ -240,13 +240,13 @@ See before/after transformations and real results.
 
 <div align="center">
 
-### 🚀 **Ready to Transform Your AI Interactions?**
+###  **Ready to Transform Your AI Interactions?**
 
 **Time Investment:** 6-9 weeks (10-15 hours/week)  
 **ROI:** Save 10+ hours weekly + dramatically better AI outputs  
 **Cost:** Free (you only pay for API usage during exercises)
 
-[**🎯 Start Foundations Lab →**](notebooks/foundations_lab.ipynb)
+[** Start Foundations Lab →**](notebooks/foundations_lab.ipynb)
 
 *Transform your first broken prompt in under 5 minutes*
 
@@ -258,7 +258,6 @@ See before/after transformations and real results.
 
 **Questions?** Check the [Course Roadmap](COURSE_ROADMAP.md) • **Need Help?** See [Getting Started Guide](START_HERE.md)
 
-⭐ **Star this repository** to get notified when new labs and projects are released
 
 **MIT Licensed** • **Actively Maintained** • **Community Contributions Welcome**
 
