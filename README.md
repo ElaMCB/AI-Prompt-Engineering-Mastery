@@ -10,7 +10,7 @@ From Frustrating Responses → Professional Results
 
 **Transform vague AI requests into precise instructions that generate exactly what you need**
 
-[Start Learning](#quick-start) • [Course Overview](#course-overview) • [What You'll Build](#what-youll-build) • [Success Stories](#success-stories)
+[Start Learning](start.md) • [Course Overview](#course-overview) • [What You'll Build](#what-youll-build) • [Success Stories](#success-stories)
 
 </div>
 
@@ -79,25 +79,15 @@ Keep under 10 words each."
 
 ## Quick Start
 
-**Get started in 2 minutes:**
+**Ready to fix your first broken prompt?**
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/ElaMCB/ai-prompt-engineering-mastery
-cd ai-prompt-engineering-mastery
+[Start Learning Now](start.md) - Get set up in 2 minutes and immediately start the interactive lab.
 
-# 2. Install requirements
-pip install -r requirements.txt
-
-# 3. Start the first lab
-jupyter notebook notebooks/foundations_lab.ipynb
-```
-
-**What you'll do immediately:**
-1. Fix 3 broken prompts that everyone struggles with
-2. Learn the CLEAR framework for writing effective prompts
-3. Complete real-world scenarios (job applications, code help, business strategy)
-4. See your prompts scored automatically (0-100%)
+**What you'll do:**
+- Fix 3 broken prompts and see immediate improvements
+- Learn the CLEAR framework for writing effective prompts  
+- Get instant feedback with built-in prompt validation (0-100% scoring)
+- Complete real scenarios: job applications, code help, business strategy
 
 **Time needed:** 2-3 hours for the complete foundations lab
 
@@ -207,7 +197,7 @@ Check [Examples & Solutions](notebooks/foundations_lab_solutions.md) - See befor
 **ROI:** Save 10+ hours weekly + dramatically better AI outputs  
 **Cost:** Free (you only pay for API usage during exercises)
 
-[Start Foundations Lab](foundations_lab.md)
+[Start Learning Now](start.md)
 
 ---
 
